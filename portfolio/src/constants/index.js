@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Lorem ipsum ",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Lorem ipsum ",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Lorem ipsum ",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Lorem ipsum ",
       icon: creator,
     },
   ];
@@ -116,55 +116,55 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Lorem ipsum ",
       company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Eget nunc lobortis mattis aliquam faucibus purus in massa tempor.",
+        " Pulvinar proin gravida hendrerit lectus.",
+        "Amet venenatis urna cursus eget nunc scelerisque viverra. ",
+        "Potenti nullam ac tortor vitae purus faucibus ornare suspendisse. ",
       ],
     },
     {
-      title: "React Native Developer",
+      title: "Neque gravida",
       company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Eget nunc lobortis mattis aliquam faucibus purus in massa tempor.",
+        " Pulvinar proin gravida hendrerit lectus.",
+        "Amet venenatis urna cursus eget nunc scelerisque viverra. ",
+        "Potenti nullam ac tortor vitae purus faucibus ornare suspendisse. ",
       ],
     },
     {
-      title: "Web Developer",
+      title: "Sodales ut eu sem",
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Eget nunc lobortis mattis aliquam faucibus purus in massa tempor.",
+        " Pulvinar proin gravida hendrerit lectus.",
+        "Amet venenatis urna cursus eget nunc scelerisque viverra. ",
+        "Potenti nullam ac tortor vitae purus faucibus ornare suspendisse. ",
       ],
     },
     {
-      title: "Full stack Developer",
+      title: "Tempor orci",
       company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Eget nunc lobortis mattis aliquam faucibus purus in massa tempor.",
+        " Pulvinar proin gravida hendrerit lectus.",
+        "Amet venenatis urna cursus eget nunc scelerisque viverra. ",
+        "Potenti nullam ac tortor vitae purus faucibus ornare suspendisse. ",
       ],
     },
   ];
@@ -198,16 +198,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Portfolio-Website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "3D portfolio website using ThreeJS, React Three Fiber,TailwindCSS, Framer Motion..",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "threejs",
           color: "green-text-gradient",
         },
         {
@@ -216,49 +216,49 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "",
     },
     {
-      name: "Job IT",
+      name: "Coming soon",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Will be updated soon...",
       tags: [
         {
-          name: "react",
+          name: "viverra",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "risus",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "vitae",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "",
     },
     {
-      name: "Trip Guide",
+      name: "Coming soon",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Will be updated soon ....",
       tags: [
         {
-          name: "nextjs",
+          name: "vitae",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "faucibus",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "purus ",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "",
     },
   ];
   
